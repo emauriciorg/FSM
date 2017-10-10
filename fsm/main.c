@@ -17,6 +17,8 @@ enum semp_state {
   TRES,
 };
 
+
+
 static int button = 0;
 static int button_pressed (fsm_t* this) { return button; }
 static int contador = 0;
