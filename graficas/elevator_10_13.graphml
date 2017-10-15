@@ -15,7 +15,7 @@
     <node id="n0">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="111.0" width="222.031906906907" x="128.98404654654655" y="-205.5"/>
+          <y:Geometry height="111.0" width="222.031906906907" x="8.576751713719773" y="-536.274062816616"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.388671875" x="74.85378379936338" y="43.091083984375075">Bajando<y:LabelModel>
@@ -32,7 +32,7 @@
     <node id="n1">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="111.0" width="229.89132882882882" x="759.9601498248614" y="-172.1874274278348"/>
+          <y:Geometry height="111.0" width="229.89132882882882" x="883.1354284469486" y="-568.9456644144145"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.84326171875" x="74.28188670586746" y="43.09108398437502">Subiendo<y:LabelModel>
@@ -66,11 +66,12 @@
     <node id="n3">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="52.26836211211213" width="94.18527902902906" x="781.4682047547915" y="-654.9425050050048"/>
+          <y:Geometry height="67.49227295304428" width="94.18527902902906" x="567.4281439537169" y="-370.99778987036393"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#FFFFFF" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.6533203125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.3369140625" x="26.42418248326453" y="3.307520899806036">yp=0
-p=0<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="66.47998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.88671875" x="-11.85071986048547" y="0.5061462421471106">yp=0
+p=0
+Sensor_piso=0<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -84,11 +85,11 @@ p=0<y:LabelModel>
     <node id="n4">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="94.0" width="305.0" x="394.1677585683316" y="-94.5"/>
+          <y:Geometry height="94.0" width="305.0" x="439.83949109112797" y="-273.50551691731965"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.5" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" height="66.47998046875" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFFFF" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="288.95751953125" x="8.021240234375" y="13.760009765625">Variable: Piso p = {0,1,2}
-
+Variable: Sensor_piso={0,1}
 Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
               <y:SmartNodeLabelModel distance="0.5"/>
             </y:LabelModel>
@@ -103,7 +104,7 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
     <node id="n5">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="139.96016245039678" width="280.6444879384045" x="129.6777560307978" y="230.01991877480162"/>
+          <y:Geometry height="139.96016245039678" width="280.6444879384045" x="260.1457507498329" y="-117.36204677737686"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="103.20263671875" x="88.72092560982725" y="57.566751147073376">cerrar Puerta<y:LabelModel>
@@ -120,7 +121,7 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
     <node id="n6">
       <data key="d5">
         <y:ShapeNode>
-          <y:Geometry height="139.96016245039678" width="280.6444879384045" x="607.7986925673047" y="243.49682047298091"/>
+          <y:Geometry height="139.96016245039678" width="280.6444879384045" x="738.2666872863398" y="-103.88514507919757"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.70263671875" x="92.97092560982719" y="57.566751147073376">Abrir Puerta<y:LabelModel>
@@ -134,44 +135,24 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n7">
-      <data key="d5">
-        <y:ShapeNode>
-          <y:Geometry height="94.0" width="305.0" x="394.1677585683316" y="450.37630883470433"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.5" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" height="87.306640625" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFFFF" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="296.51123046875" x="4.244384765625" y="3.3466796875">Variable: Contador de piso cp = {0,1,2}
-Variable: Piso p = {0,1,2}
-
-Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
-              <y:SmartNodeLabelModel distance="0.5"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="rectangle3d"/>
-        </y:ShapeNode>
-      </data>
-    </node>
     <edge id="e0" source="n2" target="n1">
       <data key="d9">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="809.9763793945312" y="-397.1260681152344"/>
+          <y:Path sx="114.94566441441441" sy="0.0" tx="-114.94566441441441" ty="0.0">
+            <y:Point x="772.3743896484375" y="-513.4456787109375"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" anchorX="26.268198992057478" anchorY="71.8135037774066" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" upX="0.7651611802844793" upY="-0.643838774993913" verticalTextPosition="bottom" visible="true" width="201.021484375" x="26.268198992057478" y="45.57518744999353">yp &gt; P / Subiendo al piso "yp"
+          <y:EdgeLabel alignment="center" anchorX="32.116480087534" anchorY="16.50865874769852" configuration="AutoFlippingLabel" distance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rotationAngle="10.0" textColor="#000000" upX="-0.40408818317716094" upY="-0.914720033789892" verticalTextPosition="bottom" visible="true" width="201.021484375" x="1.7933732686783408" y="-134.98861211079395">yp &gt; P / Subiendo al piso "yp"
 / sensor_piso=0<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="5.811199874928467" distance="57.22229059698608" distanceToCenter="true" position="right" ratio="0.22676170580319918" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="5.867203651471344" distance="59.2399766815481" distanceToCenter="true" position="left" ratio="1.0" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="128.7335662841797" ratio="1.0" type="fixedRatio"/>
+          <y:Arc height="-1.4273290616984013E-5" ratio="-2.577313011897786E-7" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
@@ -190,96 +171,95 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
     <edge id="e2" source="n2" target="n0">
       <data key="d9">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="279.749267578125" y="-427.56317138671875"/>
+          <y:Path sx="0.0" sy="0.0" tx="68.3592163135531" ty="-43.74823871319688">
+            <y:Point x="367.5098876953125" y="-525.4625854492188"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" anchorX="-170.4175298296458" anchorY="55.50111910930889" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rotationAngle="5.0888875497432165E-14" textColor="#000000" upX="0.9899008107546879" upY="0.14176171862393452" verticalTextPosition="bottom" visible="true" width="191.0166015625" x="-197.49637155284913" y="55.50111910930889">yp &lt; p / Bajando al piso "yp"
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.0166015625" x="-229.9153084212424" y="-74.11079658132599">yp &lt; p / Bajando al piso "yp"
 /sensor_piso=0<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="29.999999999999986" distanceToCenter="true" position="center" ratio="0.6245498890654348" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="3.1468292651663345" distance="30.000545049407226" distanceToCenter="false" position="right" ratio="0.5" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="-148.6164093017578" ratio="-1.2500865459442139" type="fixedRatio"/>
+          <y:Arc height="-6.481673240661621" ratio="-0.07224196940660477" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
     <edge id="e3" source="n3" target="n2">
       <data key="d9">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="716.4549560546875" y="-500.65374755859375"/>
+          <y:Path sx="-19.893999704341013" sy="-33.749561979624104" tx="38.033355920017016" ty="57.244043340453004">
+            <y:Point x="594.275146484375" y="-414.1386413574219"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:Arc height="76.14634704589844" ratio="1.0" type="fixedRatio"/>
+          <y:Arc height="-4.642369747161865" ratio="-0.21648646891117096" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
     <edge id="e4" source="n1" target="n2">
       <data key="d9">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="595.9751586914062" y="-220.0828857421875"/>
+          <y:Path sx="-98.27007881081579" sy="28.75884846714081" tx="96.34480202751502" ty="30.281902169119405">
+            <y:Point x="771.4526977539062" y="-477.0252990722656"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" anchorX="-149.76859348657717" anchorY="-112.11452373451294" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" upX="-0.9861675309420459" upY="0.16575162417203895" verticalTextPosition="bottom" visible="true" width="194.75927734375" x="-222.239476077453" y="-304.179799400656">yp==p / Estoy en el piso "yp"
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="0.5" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.75927734375" x="-213.1095356792439" y="18.031402199863408">yp==p / Estoy en el piso "yp"
 / sensor_piso=1<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="29.999999999999925" distanceToCenter="true" position="center" ratio="0.8526645201641536" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="30.112635715198685" distanceToCenter="true" position="left" ratio="-14.05066310396452" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="149.0087432861328" ratio="1.1574971675872803" type="fixedRatio"/>
+          <y:Arc height="6.900127410888672" ratio="0.10747736692428589" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
     <edge id="e5" source="n0" target="n2">
       <data key="d9">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="453.0622253417969" y="-281.3253173828125"/>
+          <y:Path sx="107.21360549505417" sy="14.44959652363707" tx="-79.8124709930932" ty="39.93985658547609">
+            <y:Point x="347.0023193359375" y="-464.18206787109375"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" anchorX="-5.164061160374672" anchorY="-16.854542732226093" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.12939453125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" upX="-0.5247061668631713" upY="-0.8512834066606478" verticalTextPosition="bottom" visible="true" width="198.9267578125" x="-36.18961911380703" y="-171.56851172088537">yp==p / Estoy en el piso "yp" 
+          <y:EdgeLabel alignment="center" anchorX="-9.579265099935355" anchorY="68.81813727128906" configuration="AutoFlippingLabel" distance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.12939453125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" upX="0.017821375302859075" upY="-0.9998411866803221" verticalTextPosition="bottom" visible="true" width="198.9267578125" x="-9.579265099935355" y="9.698133275475115">yp==p / Estoy en el piso "yp" 
 /sensor_piso=1
 
 <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="30.000000000000032" distanceToCenter="true" position="left" ratio="0.2519650171824156" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="9.848532685617018" distanceToCenter="false" position="right" ratio="0.5" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="-78.1497573852539" ratio="-0.6573565006256104" type="fixedRatio"/>
+          <y:Arc height="-5.7356133460998535" ratio="-0.09553130716085434" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
     <edge id="e6" source="n0" target="n0">
       <data key="d9">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="43.979229229229304">
-            <y:Point x="240.00000000000006" y="13.851445195195083"/>
-            <y:Point x="169.94890202702686" y="13.851445195195083"/>
-            <y:Point x="169.94890202702686" y="-106.0207707707707"/>
+          <y:Path sx="0.0" sy="0.0" tx="-70.0510979729732" ty="50.868287740628205">
+            <y:Point x="119.59270516717328" y="-350.13842309254557"/>
+            <y:Point x="49.54160719420008" y="-350.13842309254557"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.525390625" x="-128.04207425504123" y="88.03146838855446">yp ≠ p / bajando al piso "yp"
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.525390625" x="-90.73590811407672" y="54.85507666331381">yp ≠ p / bajando al piso "yp"
 /p=-1<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="80.27152988855113" distanceToCenter="true" position="center" ratio="0.0" segment="1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -289,18 +269,20 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
     <edge id="e7" source="n1" target="n1">
       <data key="d9">
         <y:BezierEdge>
-          <y:Path sx="43.65503003003005" sy="0.0" tx="-46.34496996996995" ty="0.0">
-            <y:Point x="918.5608442693059" y="77.29180180139451"/>
-            <y:Point x="828.5608442693059" y="77.29180180139451"/>
+          <y:Path sx="33.569363065688776" sy="54.265217035995136" tx="-46.70216682286252" ty="50.69711293265158">
+            <y:Point x="1031.6504559270518" y="-389.32344128180233"/>
+            <y:Point x="980.4427558257346" y="-389.32344128180233"/>
+            <y:Point x="980.4427558257346" y="-396.96998128447603"/>
+            <y:Point x="951.3789260385005" y="-396.96998128447603"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="204.19287109375" x="-129.37018600413148" y="91.75662266321092">yp ≠ p  / subiendo al piso "yp"
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="204.19287109375" x="-153.3041924164529" y="79.4805443139008">yp ≠ p  / subiendo al piso "yp"
 /p=+1<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="29.999999999999986" distanceToCenter="true" position="right" ratio="0.3333333333333333" segment="1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="29.999999999999986" distanceToCenter="true" position="left" ratio="1.0" segment="1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -310,19 +292,19 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
     <edge id="e8" source="n2" target="n2">
       <data key="d9">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="0.0" tx="34.172484984984976" ty="0.0">
-            <y:Point x="546.6677585683316" y="-576.7228322072073"/>
-            <y:Point x="503.440937997761" y="-576.7228322072073"/>
-            <y:Point x="503.440937997761" y="-700.0"/>
-            <y:Point x="580.8402435533166" y="-700.0"/>
+          <y:Path sx="-45.20676566053021" sy="-29.947446021249107" tx="19.840853387088828" ty="-54.691707356102256">
+            <y:Point x="501.46099290780137" y="-614.0686858852584"/>
+            <y:Point x="529.1408308004053" y="-614.0686858852584"/>
+            <y:Point x="529.1408308004053" y="-634.0686858852584"/>
+            <y:Point x="566.5086119554204" y="-634.0686858852584"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="202.2392578125" x="-89.41202152914872" y="-144.0235595703125">yp==p / Estoy en piso "yp"<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.82666015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="202.2392578125" x="-62.76070440383194" y="-95.6585168169529">yp==p / Estoy en piso "yp"<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="32.66875067341639" distanceToCenter="false" position="center" ratio="0.5" segment="-2"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="1.4521966543506404" distanceToCenter="false" position="left" ratio="0.3148148148148123" segment="3"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -333,11 +315,11 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
       <data key="d9">
         <y:ArcEdge>
           <y:Path sx="-117.92385183769386" sy="37.940538264195595" tx="97.41438703140824" ty="49.10840932117526">
-            <y:Point x="498.75689697265625" y="355.81964111328125"/>
+            <y:Point x="629.2249145507812" y="8.437660217285156"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="357.0126953125" x="-304.2120205741189" y="29.55619919431365">tiempo superado || sensor_piso==0 / cerrando puerta<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="357.0126953125" x="-304.21202556305155" y="29.556194616657066">tiempo superado || sensor_piso==0 / cerrando puerta<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -345,7 +327,7 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="5.556915283203125" ratio="0.08458244800567627" type="fixedRatio"/>
+          <y:Arc height="5.556915760040283" ratio="0.08458244800567627" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
@@ -356,7 +338,7 @@ Entrada: Llamado de piso yp = {0,1,2}<y:LabelModel>
           <y:Path sx="0.0" sy="-30.774104954481686" tx="0.0" ty="-44.251006652660976"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="0.5" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.6513671875" x="-2.803087639949638" y="-41.188228489637964">sensor_piso==1 / Abriendo Puerta<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="0.5" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.6513671875" x="-2.803079981461451" y="-41.18823603400395">sensor_piso==1 / Abriendo Puerta<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
